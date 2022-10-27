@@ -1,0 +1,15 @@
+C:\Users\silas\OneDrive\Skrivebord\C# projekter\BigMamaPizza\BigMamaPizza\bin\Debug\net6.0\BigMamaPizza.exe
+C:\Users\silas\OneDrive\Skrivebord\C# projekter\BigMamaPizza\BigMamaPizza\bin\Debug\net6.0\BigMamaPizza.deps.json
+C:\Users\silas\OneDrive\Skrivebord\C# projekter\BigMamaPizza\BigMamaPizza\bin\Debug\net6.0\BigMamaPizza.runtimeconfig.json
+C:\Users\silas\OneDrive\Skrivebord\C# projekter\BigMamaPizza\BigMamaPizza\bin\Debug\net6.0\BigMamaPizza.dll
+C:\Users\silas\OneDrive\Skrivebord\C# projekter\BigMamaPizza\BigMamaPizza\bin\Debug\net6.0\BigMamaPizza.pdb
+C:\Users\silas\OneDrive\Skrivebord\C# projekter\BigMamaPizza\BigMamaPizza\obj\Debug\net6.0\BigMamaPizza.csproj.AssemblyReference.cache
+C:\Users\silas\OneDrive\Skrivebord\C# projekter\BigMamaPizza\BigMamaPizza\obj\Debug\net6.0\BigMamaPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silas\OneDrive\Skrivebord\C# projekter\BigMamaPizza\BigMamaPizza\obj\Debug\net6.0\BigMamaPizza.AssemblyInfoInputs.cache
+C:\Users\silas\OneDrive\Skrivebord\C# projekter\BigMamaPizza\BigMamaPizza\obj\Debug\net6.0\BigMamaPizza.AssemblyInfo.cs
+C:\Users\silas\OneDrive\Skrivebord\C# projekter\BigMamaPizza\BigMamaPizza\obj\Debug\net6.0\BigMamaPizza.csproj.CoreCompileInputs.cache
+C:\Users\silas\OneDrive\Skrivebord\C# projekter\BigMamaPizza\BigMamaPizza\obj\Debug\net6.0\BigMamaPizza.dll
+C:\Users\silas\OneDrive\Skrivebord\C# projekter\BigMamaPizza\BigMamaPizza\obj\Debug\net6.0\refint\BigMamaPizza.dll
+C:\Users\silas\OneDrive\Skrivebord\C# projekter\BigMamaPizza\BigMamaPizza\obj\Debug\net6.0\BigMamaPizza.pdb
+C:\Users\silas\OneDrive\Skrivebord\C# projekter\BigMamaPizza\BigMamaPizza\obj\Debug\net6.0\BigMamaPizza.genruntimeconfig.cache
+C:\Users\silas\OneDrive\Skrivebord\C# projekter\BigMamaPizza\BigMamaPizza\obj\Debug\net6.0\ref\BigMamaPizza.dll
