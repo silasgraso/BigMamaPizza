@@ -4,6 +4,7 @@ using System;
 public class Order
 {
     #region Enum
+    // when ordering you have to choose where to eat
     public enum WhereToEat { PickUp, Delivery };
     #endregion
 
@@ -16,6 +17,7 @@ public class Order
     #endregion
 
     #region Constructor
+    // the order contaín the pizzaobject, costumer object and where to eat the pizza pickup or delivery
     public Order(Pizza pizza, Customer customer, WhereToEat whereToEat)
     {
         _pizza = pizza;
@@ -25,7 +27,8 @@ public class Order
 
     #endregion
 
-    #region Property
+    #region 
+    //get price for delivery or pickup
     public double DeliveryPrice
     {
         get
@@ -40,6 +43,7 @@ public class Order
 
     }
 
+    //Calculate moms price on the total order
     public double CalcMoms
     {
         get
@@ -50,6 +54,8 @@ public class Order
             return Math.Round(CalcMoms,2);
         }
     }
+
+    //Calculate netto price on the total order
 
     public double CalcNetto
     {
@@ -64,11 +70,14 @@ public class Order
     #endregion
 
     #region Methods
-
+    //print information about where to eat and the price
     public override string ToString()
     {
         return "You have ordered your food as " + _whereToEat + " +" + DeliveryPrice;
     }
+
+    //Calculate price for total order
+
     public double CalcTotalPrice()
     {
         double CalcTotalPrice = 0;
@@ -76,7 +85,6 @@ public class Order
         CalcTotalPrice  = _pizza.PizzaPrice + _pizza.ToppingPrice + DeliveryPrice; 
 
         return CalcTotalPrice;
-        //return "Total price " + CalcTotalPrice + "Netto price " + CalcNetto + "Moms price " + CalcMoms;
     }
 
     #endregion
